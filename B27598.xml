@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A signification from Israels God to Englands rulers and inhabitants, from the highest to the lowest, concerning what hereafter shall ensue through a servant of the Lord ... T.O.</title>
+            <author>Ollive, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27598</idno><idno type="EEBO-CITATION">31355768</idno>
+  <idno type="VID">205949</idno>
+  <idno type="EEBO-PROQUEST">2240897205</idno>
+  
+            <idno type="STC">Wing O285A</idno>
+            <idno type="OCLC">31355768</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A signification from Israels God to Englands rulers and inhabitants, from the highest to the lowest, concerning what hereafter shall ensue through a servant of the Lord ... T.O.</title>
+                  <author>Ollive, Thomas.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the Year 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 7: Tho. Ollive.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Prophecies --  Quaker authors.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+               <term type="topical_term">Admonitions --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205949:1"/>
+            <p>A SIGNIFICATION FROM ISRAELS GOD TO Englands Rulers AND Inhabitants, from the highest to the lowest concerning what hereafter shall ensue.</p>
+            <p>Through a Servant of the Lord who desires the returning to the Lord, and reformation of the lives of those who are yet enemies to the Lord and themselves, that they may escape what the Lord hath threatened against the workers of Iniquity. <hi>T. O.</hi>
+            </p>
+            <q>
+               <p>For when they shall say peace and safety, then sudden destructi<g ref="char:EOLhyphen"/>on cometh upon them as travel upon a Woman with Child, and they shall not escape, <bibl>
+                     <hi>1 Thes. 5.3.</hi>
+                  </bibl>
+               </p>
+               <p>But the Name of the Lord is a strong Tower, the Righteous runeth into it and is safe, <bibl>
+                     <hi>Prov. 18.10.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year 1666.</p>
+            <pb facs="tcp:205949:2"/>
+            <pb facs="tcp:205949:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205949:3"/>
+            <pb n="3" facs="tcp:205949:3"/>
+            <head>A Signification from Israels God, &amp;c.</head>
+            <p>OH <hi>England, England</hi>'s Rulers from the highest to the lowest, hear the Word of the Lord yea Rulers and Inhabitants of this Land; for behold thus saith the Almighty and dreadful God of Heaven &amp; Earth, a happy Land or Nation might <hi>England</hi> have been if you had made your Lawes and Decrees for the suppressing of evil doers, works and workers of iniquity which aboundeth in this Land, and spared my People who fear my Name, and let the oppressed go free; which was the thing I required at your hands, and for this very end and purpose I gave and betrusted you with power that you might have done the thing that pleased me, saith the Lord; who raised you out of your suffering state (wherein many of you was sensible of sufferings) under the hands of your enemies, as many of my People were in their days, and I deli<g ref="char:EOLhyphen"/>vered them into your hands, and brought you to your Dominions again, because they did not the thing that was right before me; therefore they had but their day, and you have had a day also; they persecuted and imprisoned my People, in which sufferings several of them suffered untill death, and they were guilty of in<g ref="char:EOLhyphen"/>nocent blood, and my hand turned against them for their over<g ref="char:EOLhyphen"/>throw: But what have you done? your day is yet, have you a<g ref="char:EOLhyphen"/>mended any of these things, or have you added affliction to afflicti<g ref="char:EOLhyphen"/>on, and strengthened their bands, and caused the oppressed to groan under your cruelties, which many of you have not spared to exercise upon them that fear my name? And how have you sought their ruine and destruction, and to separate them from the Land of their Nativity? And how have you been renting and tearing with your might and strength the Husband from the Wife, the Wife from the Husband, and Parents from their tender Chil<g ref="char:EOLhyphen"/>dren? is this done unto them for evil doing, or because they serve and worship me, saith the Lord? What say you to it, if you have found wickedness and abomination amongst them you are the more excusable; but if it be for the exercise of their Conscience to<g ref="char:EOLhyphen"/>wards
+<pb n="4" facs="tcp:205949:4"/>Me, and because they can serve none but Me, then woe be unto you for ever except you with speed repent; no longer harden your hearts against me, you shall know I am the Lord, for the day of your recompence is coming; yea, the day is hastening upon you, wherein I will call you to account; and where is the mighty Man amongst you, with all <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawes and Decrees that will be able to plead with me in the dreadful day of my Vengeance; Oh what account can you give of your Stewardship? you shall know the power and dominion is mine, saith the Lord God Almighty: Did my hand turn against your enemies and delivered them into your hands that you might be a scourge to them? what think you con<g ref="char:EOLhyphen"/>cerning your selves? are you more righteous then they? did not many of you see the evil in them, and have not you exceeded them in a high manner? who shall deliver you, or who shall be able to help you in the day of your distress, or where will you hide your heads in the day of your Calamity if you repent not?</p>
+            <p>My soul even mournes within me for the Inhabitants of this Land, who have rejected the Councel of the Lord, and hardened their hearts against God: Oh that one might a little prevail with you, that you would set your selves to seek the Lord, and stand no longer in the gainsaying, but turn to the Witness of God in your selves, which reproves you for your evil deeds, that through true repentance you may meet the Lord in <hi>Sion,</hi> that a habitation and a hiding place you may know with the Lord in the mighty day that's hastning upon all the workers of unrighteous<g ref="char:EOLhyphen"/>ness. As I was prest in my spirit to write to thy Rulers and Inha<g ref="char:EOLhyphen"/>bitants oh <hi>England,</hi> being in deep exercise concerning such a weigh<g ref="char:EOLhyphen"/>ty matter, I even set my self to wait upon the Lord, and after some hours waiting upon the Lord, my heart being exercised with him, the God of <hi>Israel</hi> spake on this wise, <hi>Great shall be the increase and gathering of my People, they shall be as the sands on the sea shore; but upon the wicked and ungodly who have provoked me to jealousie, de<g ref="char:EOLhyphen"/>struction, destruction, desolation, misery and woe, sore Calamities, sword and famine, plague and pestilence, such that never was from the begin<g ref="char:EOLhyphen"/>ning.</hi> Oh the sence of thy misery oh <hi>England</hi> caused my bowels to be moved with compassion for thee; oh how doth my soul pit<g ref="char:EOLhyphen"/>ty thee with thy leaders, thy Rulers and all thy Inhabitants, who have set yourselves to make war with the Lamb and his Follow<g ref="char:EOLhyphen"/>ers: Oh whether will you run, to whom will you fly for refuge?
+<pb n="5" facs="tcp:205949:4"/>neither hills nor mountains will cover you, neither can you hide your selves in the clefts of the Rocks; oh the mighty day of dread and terrour that's hastning, wherein you will remember your dealings when terrour and fear compasseth you about on every side; then shall you say, blessed are they that fear God and not Men; oh the cry that will be among you, then shall many come crying unto them, that you now seek to destroy who fear God in deed and in truth, and shall say, pray to your God for us, that he may shew us mercy in the day of our distress.</p>
+            <p>In which neither your Gods of Silver nor Gold shall be able to deliver you, your Lawes nor Decrees, nor power of darkness shall be able to help you; and all you inferior Officers in this Land who have put your selves forward in this work of persecuting the People of the Lord; and say, <hi>you have the King's law, and you must do your office:</hi> Oh that you considered what you are about, for it's neither <hi>King</hi> nor <hi>Parliaments</hi> that can save, deliver, or excuse you in this approaching dreadful day of the mighty God, in which he will take vengeance upon his enemies; and this know <hi>oh King and Parliament,</hi> that neither your <hi>Bishops, Deans, Prebends, Priests,</hi> nor <hi>Prelates</hi> that can be a saviour to you in the day wherein the dreadful God will execute his pleasure, though they have taught and instructed you in this way, who are ready to flatter with you, and say you do God good service in this work; but it will be ma<g ref="char:EOLhyphen"/>nifest, and you shall know in the day of your Visitation, whether you have done service for the Lord, or whether you have been fighting against God; you <hi>Bishops</hi> with all your Priests, you have now a power to uphold you, and great revenues many of you have; but the day of your desolation slumbers not, for the hand of the Lord is turned against you, and all your power and lawes to uphold you, it will all be too little for you, for one mightier then you all, hath sealed his decree concerning you, except you re<g ref="char:EOLhyphen"/>pent: And as I live saith the Lord you shall partake of what is a<g ref="char:EOLhyphen"/>foresaid, according to your doings: Oh my soul pitties you, the time is fast hastning wherein your coverings will be rent and torne in sunder, and you shall appear as you inwardly are, and you shall deceive my People no more saith the Lord.</p>
+            <p>Oh <hi>King,</hi> oh <hi>King</hi> happy Prince might thou have been, and of renown in deed if thou hadst never inclined an ear to flattering Priests, who for self ends will cry peace, peace; oh that the time
+<pb n="6" facs="tcp:205949:5"/>past might suffice, and thou turn to the Lord: bear with me a lit<g ref="char:EOLhyphen"/>tle oh <hi>King,</hi> and receive a few plain words from one that loves thy soul, who dares not flatter with any but in plainness of speech declare the truth, hadst thou took the Lord for thy Councellor, and inclined thine ear to the witness of God in thee which would have taught thee to do as thou would, and also to have broke down oppression, and let the Israel of God gone free; surely then Nations should have bowed before thee, and thine enemies not been able to stand against thee, but a prosperous Prince indeed thou should have been. But surely, surely my soul saith within me, well would it be for thee oh King that thou would yet return to the Lord, and wait to know him to be thy chief Councellor, and it may be thou mayest yet be happy; and how honourable will it be for thee to have the Lord for thy Councellor; and to do that which may please the Lord; and herein thou mayest please him who is God of Gods, and King of Kings; as time is yet given thee and power is yet in thy hand, to break off oppression and take the heavy burdens off from the afflicted suffering people of the Lord within thy Dominions. Break their bonds and let them go free in their exercise to the Lord their God, who are willing to be sub<g ref="char:EOLhyphen"/>ject to whatever is good, and what better Subjects can a King de<g ref="char:EOLhyphen"/>sire? and this is the truth there is no other way for thy safety, welfare and happiness. But it may be, thy <hi>Bishops</hi> and thy <hi>Priests</hi> will say no; but take heed of their flatteries; and this I have to say concerning them; but I had rather be silent herein, but dare not but declare the truth from the Lord, for the day of their discovery is hastning, wherein they will be loathed, abhorred and hated above all people, because they have been the teachers, lea<g ref="char:EOLhyphen"/>ders and instructers, and have encouraged both Rulers and People in persecuting, imprisoning and banishing them that fear the Lord only, therefore shall they receive a reward according to their do<g ref="char:EOLhyphen"/>ings, but blessed are them who fear and trust in the name of the Lord, for well will it be with them whether living or dying.</p>
+            <p>And all you both high and low of what ranke or degree soever, who have not yet sinned out the day of your visitation, who have any breathings after the Lord, and desires life everlasting rather then death and destruction: Awake, awake in the name of the Lord, and look to your selves, now is the time, but you know not how long, how long, the Lord hath long borne and forborne,
+<pb n="7" facs="tcp:205949:5"/>and long hath he waited for the returning of his people from ini<g ref="char:EOLhyphen"/>quity, transgression and sin; but how have you abounded therein▪ many writing, exhortations and warnings have you had, but how slighted, rejected and contemned by the general part, and hath been accounted as a thing of nought, and many hardened their hearts; but in vain do you harden your hearts against the Lord: be not so blind, be not so ignorant, know you not that when the hearts of a people is altogether hardened against God that de<g ref="char:EOLhyphen"/>struction is near; <hi>remember Pharaoh of old,</hi> how did he withstand the Lord and hardened his heart against God, and what was his end, put it not from your selves, the day draws near you, and whether you will hear or forbear the concernment is to your selves, and the thing its very weighty, you will know and feel it so to be, and as one in the sence of the beholding of your sad and miserable state who fear Man more then God, and the sad calamity, which unavoidably will overtake you except you with speed for<g ref="char:EOLhyphen"/>sake your iniquity, and turn to the Lord; and now I have in dread and fear of the Almighty God given this my testimony amongst you in<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bitants of the Land of my Nativity, and in the day where<g ref="char:EOLhyphen"/>in you I see and behold these things come to pass, then will you remember me, and then may you say the Lord hath spoken by me: Oh that mine eyes were as a fountain that I might weep day and night for the Inhabitants of this Land; I am pained, I am pained for thee oh <hi>England;</hi> oh that I might stand in the gap in the ter<g ref="char:EOLhyphen"/>rible day; unto what people under the Heavens hath the Lord been more favourable then to thee oh Land? and how hast thou requited him. Much might be said, but I leave you, look what interest you have in God, for the Witness is near you, by which you for ever will be justified or condemned; and as one who hath received mercy from the Lord my soul shall breath for your return, that your souls may also live; I had been silent in this matter if I could have had rest and peace with the Lord in for<g ref="char:EOLhyphen"/>bearing; but now I have cleared my Conscience in faithfulness to God and also to you: my soul shall return to its rest with the Lord.</p>
+            <closer>
+               <dateline>
+                  <hi>Written in</hi> Northampton <hi>County Goal</hi>
+                  <date>
+                     <hi>the</hi> 3d. <hi>of the</hi> 5th. <hi>Mon.</hi> 1666.</date>
+               </dateline>
+               <hi>where I am a Prisoner with near</hi> 80. <hi>more of the people of the Lord at this day, who suffer for the Testimony of a pure Conscience, waiting for the Lord to plead our cause, and clear our innocency in the face of all our enemies.</hi>
+            </closer>
+            <trailer>Tho. Ollive.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:205949:6"/>
+            <head>POSTSCRIPT.</head>
+            <p>ANd concerning the now afflicted suffering People of the Lord called <hi>Quakers,</hi> who are accounted (by many in this age) as the off-scouridg of all things, and a people not fit to live in the land of their Nativity; and many wise Professors say, (who are not faithful to any thing) they are a stuborn self-will'd people, who run themselves into these sufferings and need not, and so seek their own ruine: So they that fear the Lord and depart from ini<g ref="char:EOLhyphen"/>quity are become a scorn and a by-word amongst them, who can act in their own wills, who please, serve and love themselves be<g ref="char:EOLhyphen"/>fore the Lord. Oh what a Generation is this! certainly you shall know they contend not for trifles, but that which they seek, and have and do suffer for, is (of more value then Earthly Crowns) an Inheritance that is Everlasting and Incorruptible, that their souls may live and rest in the Kingdom that hath no end, when time and place shall be no more; happy and blessed will they be in the tribulating day who hath an assurance thereof, wherein nei<g ref="char:EOLhyphen"/>ther high nor low, noble or ignoble, professer nor prophane shall find any safety, but those whose trust is in the name of the Lord only and alone for ever; and the faithful in heart who seek <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thing but the Glory of the Lord, and can serve none but him, shall walk bold as Lions with their lives in their hands blessing and praising the Lord the God of their Salvation, who have not loved their lives unto death, but have followed through the regeneration, who have a part in the first Resurrection, on whom the second death shall have no power, but in the power of the life of their God shall live and reign triumphing over death, hell and destructi<g ref="char:EOLhyphen"/>on, glorifying God in soul, body, and spirit. Oh will not your ears tingle in the hearing, and will not you stand amazed in the day wherein you will both hear and see the wonderful works of the God of eternal power, and you shall know the Lord is their God and their Saviour in whom they trust; who will work their de<g ref="char:EOLhyphen"/>liverance in and through the destruction of his and their enemies, and will give them beauty for ashes, and the oyle of gladness for the spirit of heaviness, and thousands shall desire to come to have acquaintance with the God whom they serv<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and their hearts in<g ref="char:EOLhyphen"/>flamed with love to him because of his Heavenly and glorious ap<g ref="char:EOLhyphen"/>pearance in and amongst them who have given their Lives to Him. Oh hasten this thy work oh Lord, and prosper it according to thy pleasure, to which mysoul and spirit saith, Amen, Amen, Halleluiah, Glory, Honour &amp; Praise unto him that liveth &amp; reigneth for ever.</p>
+            <closer>
+               <signed>T. O.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:205949:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
